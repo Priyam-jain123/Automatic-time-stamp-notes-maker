@@ -1,0 +1,27 @@
+ Havard
+
+Harvard College's Admissions & 
+Financial Aid Office and the 
+Visitor Center are temporarily 
+closed while staff are working 
+remotely. We encourage you to 
+explore Harvard College through 
+our student stories, our online 
+information sessions, and virtual
+tour. For Spring 2022, we are 
+offering limited on-campus tours.
+
+Important Keyword
+['Visitor Center','Havard College','Admissons & Financial Aid Office']
+
+Time stamps are as follows
+Visitor Center        from 2.12 sec to 2.14 sec, confidence is 100.00%
+Havard College        from 4.37 sec to 4.48 sec, confidence is 99.37%
+Admissons & Financial Aid Office        from 0.12 sec to 0.30 sec,confidence is 89.03%
+
+
+
+
+
+
+
